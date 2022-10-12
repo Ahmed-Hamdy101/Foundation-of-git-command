@@ -1,0 +1,9 @@
+1-touch .gitignore
+
+2-vi .gitignore
+
+3-add ignore files :( .sh ,.php .txt )
+
+4-CRTL + C 
+
+5-type :wq
