@@ -1,3 +1,7 @@
+# git ignore : ignore your secret files or the files you won't upload it
+# create git ignore
+touch .gitignore
+echo "node_module"  > 
 *.sh
 .rb
 .php
