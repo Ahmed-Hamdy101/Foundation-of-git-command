@@ -1,3 +1,4 @@
+#this will help you to change/make new branch ............
 git checkout 
 git checkout -b "mynewbranch" #creata and switch branch
 git branch # this for all avialible branches
