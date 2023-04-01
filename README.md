@@ -1,5 +1,5 @@
-#### Git Command
-![Git](./icons/18133.png)
+<h1 align="center">Git Command </h1>
+<p align="center"> <img src"./icons/18133.png"> </p>
 
 #### Welcome in  Foundation Of Git this Repo Have all command of Git Commands
 
