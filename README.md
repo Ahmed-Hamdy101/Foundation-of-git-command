@@ -1,5 +1,8 @@
 <h1 align="center">Git Command </h1>
-<p align="center"> <img src="./icons/18133.png"> </p>
+<div align="center"> <img src="./icons/18133.png"> 
+
+<a href="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Foundation-of-git-command?style=social"> <img src="https://img.shields.io/github/watchers/Ahmed-Hamdy101/Foundation-of-git-command?style=social"/></a><a href="https://img.shields.io/twitter/follow/Torn40535516?style=social"> <img src="https://img.shields.io/twitter/follow/Torn40535516?style=social"/></a><a href="https://img.shields.io/github/followers/Ahmed-Hamdy101?style=social"> <img src="https://img.shields.io/github/followers/Ahmed-Hamdy101?style=social"/></a><a href="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Foundation-of-git-command"> <img src="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Foundation-of-git-command"/></a>
+</div>
 
 ## Welcome in  Foundation Of Git Commands
 
